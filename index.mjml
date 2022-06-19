@@ -1,78 +1,107 @@
 <mjml version="3.3.3">
 <mj-head>
-    
+    <mj-breakpoint width="320px" />
+    <mj-style>
+        @media (max-width: 480px) {
+
+            .link-grid {
+                font-size: 11px;
+            }
+
+            .store1-container {
+                padding-left: 0 !important;
+            }
+
+            .store2-container {
+                padding-right: 0 !important;
+            }
+
+            .store1 {
+                padding-left: 5px !important;
+            }
+
+            .store2 {
+                padding-right: 5px !important;
+            }
+
+            .display {
+                display: none;
+            }
+        }
+    </mj-style>
+
 </mj-head>
 <mj-body>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban1.png" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/65mhMZj5/urban1.png" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban2.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/Xqvw8N9C/urban2.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban3.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/d0Krfj8v/urban3.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban4.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/bwfZYNd9/urban4.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban5.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/FKLmY0qf/urban5.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban6.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/SRQwf9Zf/urban6.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban7.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/XJLPqJVG/urban7.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban8.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/s2RHJSxG/urban8.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban9.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/KzG962nZ/urban9.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban10.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/c15DbP6S/urban10.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban11.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/x1LtqC5f/urban11.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
 <mj-section padding="0">
     <mj-column width="100%">
-        <mj-image src="img/urban12.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/NjGkG4K4/urban12.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>    
 </mj-section>
 
@@ -87,36 +116,38 @@
 <mj-group width="100%">
     
     <mj-column width="100%">
-        <mj-image src="img/urban13.jpeg" alt="urban outfitters" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/Dy61NXxb/urban13.jpg" alt="urban outfitters" href="#" padding="0"/>
     </mj-column>   
     <mj-column width="50%" vertical-align="top">
-        <mj-image src="img/urban14.jpeg" alt="urban outfitters" href="#" width="320px" height="101px" padding="0"/>
+        <mj-image src="https://i.postimg.cc/WzjJWNrn/urban14.jpg" alt="urban outfitters" href="#" width="320px" height="101px" padding="0"/>
     </mj-column>   
     <mj-column width="50%">
-        <mj-image src="img/urban15.jpeg" alt="urban outfitters" href="#" width="320px" height="101px" padding="0"/>
+        <mj-image src="https://i.postimg.cc/v8Ln1nFS/urban15.jpg" alt="urban outfitters" href="#" width="320px" height="101px" padding="0"/>
     </mj-column> 
 
 </mj-group>
 
 </mj-section>
 
-<mj-section padding="0 12px" background-color="#F5F5F5" border-top="50px solid #F5F5F5">
+<mj-wrapper padding="0">
+    
+<mj-section padding="0 6px" background-color="#F5F5F5" border-top="50px solid #F5F5F5">
 
 <mj-group width="100%">
     
     <mj-column width="33.33%" border-bottom="1px solid #DDDDDD" border-right="1px solid #DDDDDD" padding="25px 0">
-        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica">
-            <a href="#" style="text-decoration: none; color: #222222;">Shop UO</a>
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+            <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">Shop UO</a>
         </mj-text>
     </mj-column>
-    <mj-column width="33.33%" border-left="1px solid #DDDDDD" border-bottom="1px solid #DDDDDD" border-right="1px solid #DDDDDD" padding="25px 0">
-        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica">
-             <a href="#" style="text-decoration: none; color: #222222;"> Help + Info</a>
+    <mj-column width="33.33%" border-bottom="1px solid #DDDDDD" border-right="1px solid #DDDDDD" padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+             <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">Help + Info</a>
         </mj-text>
     </mj-column>
-    <mj-column width="33.33%" border-left="1px solid #DDDDDD" border-bottom="1px solid #DDDDDD" padding="25px 0">
-        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica">
-             <a href="#" style="text-decoration: none; color: #222222;"> Find a Store</a>
+    <mj-column width="33.33%" border-bottom="1px solid #DDDDDD" padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+             <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">Find a Store</a>
         </mj-text>
     </mj-column>
 
@@ -125,70 +156,81 @@
 <mj-group width="100%">
     
     <mj-column width="33.33%" border-right="1px solid #DDDDDD" padding="25px 0">
-        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica">
-            <a href="#" style="text-decoration: none; color: #222222;">Contact Us</a>
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+            <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">Contact Us</a>
         </mj-text>
     </mj-column>
-    <mj-column width="33.33%" border-left="1px solid #DDDDDD" border-right="1px solid #DDDDDD" padding="25px 0">
-        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica">
-             <a href="#" style="text-decoration: none; color: #222222;">UO Rewards</a>
+    <mj-column width="33.33%"  border-right="1px solid #DDDDDD" padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+             <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">UO Rewards</a>
         </mj-text>
     </mj-column>
-    <mj-column width="33.33%" border-left="1px solid #DDDDDD" padding="25px 0">
-        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica">
-            <a href="#" style="text-decoration: none; color: #222222;">UO Community</a>
+    <mj-column width="33.33%"  padding="25px 0">
+        <mj-text align="center" font-size="12px" font-weight="bold" font-family="Helvetica" padding="10px 0">
+            <a href="#" style="text-decoration: none; color: #222222;" class="link-grid">UO Community</a>
         </mj-text>
     </mj-column>
 
 </mj-group>
 
 </mj-section>
+</mj-wrapper>
 
 <mj-section padding="0 40px" background-color="#F5F5F5" border-top="30px solid #F5F5F5">
 
 <mj-group width="100%">
     
     <mj-column width="14.285%">
-        <mj-image src="img/urban-social1.png" alt="instagram" width="50px" height="50px" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/tCc47RTM/urban-social1.png" alt="instagram" width="50px" height="50px" href="#" padding="0"/>
     </mj-column>
      <mj-column width="14.285%">
-        <mj-image src="img/urban-social2.png" alt="facebook" width="50px" height="50px" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/8c0NFw16/urban-social2.png" alt="facebook" width="50px" height="50px" href="#" padding="0"/>
     </mj-column>
      <mj-column width="14.285%">
-        <mj-image src="img/urban-social3.png" alt="twitter" width="50px" height="50px" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/Sx8ksWHn/urban-social3.png" alt="twitter" width="50px" height="50px" href="#" padding="0"/>
     </mj-column>
      <mj-column width="14.285%">
-        <mj-image src="img/urban-social4.png" alt="pinterest" width="50px" height="50px" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/k5m9t2df/urban-social4.png" alt="pinterest" width="50px" height="50px" href="#" padding="0"/>
     </mj-column>
      <mj-column width="14.285%">
-        <mj-image src="img/urban-social5.png" alt="youtube" width="50px" height="50px" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/0N0vG9kx/urban-social5.png" alt="youtube" width="50px" height="50px" href="#" padding="0"/>
     </mj-column>
      <mj-column width="14.285%">
-        <mj-image src="img/urban-social6.png" alt="tiktok" width="50px" height="50px" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/cHDNjTtb/urban-social6.png" alt="tiktok" width="50px" height="50px" href="#" padding="0"/>
     </mj-column>
      <mj-column width="14.285%">
-        <mj-image src="img/urban-social7.png" alt="spotify" width="50px" height="50px" href="#" padding="0"/>
+        <mj-image src="https://i.postimg.cc/x8cSSHKT/urban-social7.png" alt="spotify" width="50px" height="50px" href="#" padding="0"/>
     </mj-column>
 
 </mj-group>
 
-<mj-group width="100%">
-    
-    <mj-column width="50%" padding-top="35px" padding-left="100px">
-        <mj-image src="img/urban-store1.png" alt="apple store" width="120px" height="38px" href="#" padding="0 0 0 0" align="center"/>
+<mj-group width="60%">
+
+<!-- <mj-group width="100%">    
+    <mj-column width="50%" padding-top="35px"  css-class="store1-container">
+        <mj-image src="https://i.postimg.cc/mZHsV328/urban-store1.png" css-class="store1" alt="apple store" width="120px" height="38px" href="#" padding="0 0 0 100px" align="center"/>
     </mj-column>
-    <mj-column width="50%" padding-top="35px" padding-right="100px">
-        <mj-image src="img/urban-store2.png" alt="google store" width="120px" height="38px" href="#" padding="0 0 0 0" align="center"/>
+    <mj-column width="50%" padding-top="35px" css-class="store2-container">
+        <mj-image src="https://i.postimg.cc/pXMtS9mx/urban-store2.png" css-class="store2" alt="google store" width="120px" height="38px" href="#" padding="0 100px 0 0" align="center"/>
+    </mj-column> -->
+
+    <mj-column width="50%" padding-top="35px"  css-class="store1-container">
+        <mj-image src="https://i.postimg.cc/mZHsV328/urban-store1.png" css-class="store1" alt="apple store" width="120px" height="38px" href="#" padding="0 0 0 0" align="center"/>
+    </mj-column>
+    <mj-column width="50%" padding-top="35px" css-class="store2-container">
+        <mj-image src="https://i.postimg.cc/pXMtS9mx/urban-store2.png" css-class="store2" alt="google store" width="120px" height="38px" href="#" padding="0 0 0 0" align="center"/>
     </mj-column>
 
 </mj-group>
 
     <mj-column width="100%" padding-top="35px">
         <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="center">
-            You are subscribed as jjones@gmail.com
+            You are subscribed as <span><a style="color: rgb(92, 92, 95) !important; text-decoration: none !important;">jjones@gmail.com</a></span>
         </mj-text>
     </mj-column>
 
+<mj-group width="100%">
+    
     <mj-column width="50%" padding-top="15px">
         <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="right" padding="0 20px 0 0">
             <a href="#" alt="unsubscribe" style="color: rgb(92, 92, 95);">
@@ -203,6 +245,8 @@
             </a>
         </mj-text>
     </mj-column>
+
+</mj-group>
 
      <mj-column width="100%" padding="15px 0 0">
         <mj-text color="rgb(92, 92, 95)" font-size="11px" font-family="helvetica" align="center" line-height="17px" padding="0 20px">
